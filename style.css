@@ -1,0 +1,28 @@
+body {
+    background-color: silver;
+    font-family: Arial;
+    background-image: url("birthday.jpg");
+    
+
+
+}
+h1{
+    font-family: 20px;
+    background-color:burlywood;
+    text-align: center;
+    text-shadow: 3px 2px palevioletred;
+    font-size: 40px;
+     font-size: 100px;
+     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman';
+     
+     
+}
+p{
+    text-align: center;
+    font-size: 60px;
+    color: darkred;
+
+    font-family: monotype corsiva;
+    
+}
+
